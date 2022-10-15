@@ -4,6 +4,7 @@
 #Finalmente, mostrar en pantalla un valor de verdad (True o False) 
 #que indique si el usuario es mayor de 18 años de edad 
 #y además compró más de 1 artículo.
+#VERSION 2.0
 def run():
     
     edad= int(input("Ingrese su edad: "))
