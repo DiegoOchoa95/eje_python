@@ -5,6 +5,7 @@
 #que indique si el usuario es mayor de 18 años de edad 
 #y además compró más de 1 artículo.
 def run():
+    
     edad= int(input("Ingrese su edad: "))
     articulo=int(input("Ingrese la cantidad de articulos comprados: "))
     if edad>18 and articulo>1:
