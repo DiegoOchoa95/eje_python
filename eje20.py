@@ -5,9 +5,10 @@ def run():
     n3=int(input("Ingrese el tercer numero: "))
     
     nmayor=max(n1,n2,n3)
-        
-
+    nmenor=min(n1,n2,n3)
+      
     print("El numero mayor es: ",nmayor)
+    print("El numero menor es: ",nmenor)
 
 
 
